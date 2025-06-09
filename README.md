@@ -13,6 +13,7 @@ Power BI, SQL, Excel, Power Query
 Built dynamic, interactive dashboards  with KPIs like Gross Margin, Forecast Accuracy, Sales Trends, and Profitability, Net Error .
 
 There are 5 𝘃𝗶𝗲𝘄𝘀 each view gives different insights which are given below:
+
 🔹 𝗙𝗶𝗻𝗮𝗻𝗰𝗲 𝗩𝗶𝗲𝘄 :
 Profit & Loss report, revenue trends, and gross/net margins for better financial planning and cost control.
 
@@ -31,7 +32,8 @@ View high-level insights with KPI cards and revenue breakdowns.
 📌 Project Outcome:
 Empowered business users to analyze trends, reduce reporting time, and increase transparency across teams.
 
-👁️‍🗨️ 𝗟𝗶𝘃𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱:https://app.powerbi.com/view?r=eyJrIjoiNzI1MjJiMDYtZjA1OS00MDBlLWFiMWMtMTNiYzM0OTEyNmY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+👁️‍🗨️ 𝗟𝗶𝘃𝗲 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱:[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzI1MjJiMDYtZjA1OS00MDBlLWFiMWMtMTNiYzM0OTEyNmY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 
 
