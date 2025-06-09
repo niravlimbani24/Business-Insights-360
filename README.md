@@ -29,6 +29,24 @@ Assess forecast accuracy and net error metrics.
 🔹 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗩𝗶𝗲𝘄 :
 View high-level insights with KPI cards and revenue breakdowns.
 
+**Data Sources**  
+The dashboard integrates data from multiple sources, ensuring a comprehensive view of AtliQ Hardware’s performance:
+
+- Excel/CSV Files: Data related to targets, market share, and other key metrics are gathered from Excel and CSV files.  
+- MySQL Database: Crucial business dimensions and facts across departments are sourced from a MySQL database.
+
+**Skills Learned**  
+Working on this project has helped me develop and refine a wide range of skills:  
+- Power BI Data Modeling  
+- Advanced DAX Calculations  
+- Compelling Data Visualizations  
+- Data Interpretation & Analysis  
+- Dashboard Design Principles  
+- User-Centric Design Thinking  
+- Effective Stakeholder Communication  
+- Optimization Using DAX Studio  
+- Data Integration from Excel, CSV, and MySQL
+
 📌 Project Outcome:
 Empowered business users to analyze trends, reduce reporting time, and increase transparency across teams.
 
